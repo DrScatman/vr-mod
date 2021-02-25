@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034486771505",
+    "firebase_url": "https://vr-mod.firebaseio.com",
+    "project_id": "vr-mod",
+    "storage_bucket": "vr-mod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034486771505:android:bb1a4071bb2afa54a10a10",
+        "android_client_info": {
+          "package_name": "com.sdbh.vrmod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034486771505-du8hb5nglr41huo4av8pp8bhkmg1ui56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8EIvZvWFzVSJr19EYhGx0X3n5oCvgW78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034486771505-du8hb5nglr41huo4av8pp8bhkmg1ui56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
