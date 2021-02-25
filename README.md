@@ -13,3 +13,7 @@ https://sketchfab.com/developers/download-api
 Utilizes UnityGLTF to extract & load 3D models at runtime.
 
 https://github.com/KhronosGroup/UnityGLTF
+
+UnityXR for virtual reality development support
+
+https://docs.unity3d.com/Manual/XR.html
