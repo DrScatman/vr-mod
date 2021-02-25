@@ -5,7 +5,7 @@ Virtual reality Gary's Mod.
 
 https://gmod.facepunch.com/
 
-
+<span>&nbsp;</span>
 
 ### Technical Details
 Utilizes the Sketchfab Download API to enable in-game downloads of any 3D model from Skatchfab.
